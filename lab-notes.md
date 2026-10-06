@@ -1,3 +1,5 @@
+## Partner's Contribution
+- Added my name and a new bullet point
 # Lab Notes
 ## What We Did Today
 - Created a GitHub repository
@@ -10,3 +12,4 @@
 1. First step
 2. Second step
 [Visit GitHub](https://github.com)
+cd %USERPROFILE%\Documents
